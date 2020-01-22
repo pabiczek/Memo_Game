@@ -1,0 +1,8 @@
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\memo_game_prototype.csprojAssemblyReference.cache
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\MainWindow.g.cs
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\Page1.g.cs
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\Page2.g.cs
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\App.g.cs
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\memo_game_prototype_Content.g.cs
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\memo_game_prototype_MarkupCompile.cache
+C:\Users\jpabi\source\repos\memo_game_prototype\obj\Debug\memo_game_prototype_MarkupCompile.lref
