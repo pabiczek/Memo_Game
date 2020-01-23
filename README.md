@@ -9,3 +9,4 @@ The goal of the project is to implement a simple desktop game written in C #, wo
 ## Created by:
 [@MarekBoj](https://github.com/MarekBoj) - 50% (application logic, graphics, debugging)
 [@pabiczek](https://github.com/pabiczek) - 50% (XAML, github, installator, documentation)
+
