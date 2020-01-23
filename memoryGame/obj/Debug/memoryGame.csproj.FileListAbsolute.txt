@@ -1,0 +1,7 @@
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\memoryGame.csprojAssemblyReference.cache
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\GamePage.g.cs
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\MainMenuPage.g.cs
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\MainWindow.g.cs
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\App.g.cs
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\memoryGame_MarkupCompile.cache
+C:\Users\jpabi\Desktop\memomarek2\memoryGame_vol2\memoryGame\obj\Debug\memoryGame_MarkupCompile.lref

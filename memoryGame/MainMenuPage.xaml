@@ -1,0 +1,27 @@
+﻿<Page x:Class="memoryGame.MainMenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:memoryGame"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainMenuPage">
+
+    <Grid>
+        <Image Margin="0,0,-2,0" Source="background_main_menu.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content="MemoryGame" HorizontalAlignment="Center" VerticalAlignment="Center" Height="111" Width="474" FontSize="72" BorderBrush="White" Foreground="#FF461B4D" Margin="163,0,163,339"/>
+        <Label Content="MemoryGame" HorizontalAlignment="Center" VerticalAlignment="Center" Height="111" Width="474" FontSize="72" BorderBrush="White" Foreground="#FFE39EEE" Margin="163,-18,163,357"/>
+        <Button Content="Play" HorizontalAlignment="Left" Margin="247,280,0,0" VerticalAlignment="Top" Width="292" Height="47" BorderBrush="#FF321A1A" Foreground="White" Background="#FF5D224A" Click="PlayButton"/>
+        <Button Content="Quit" HorizontalAlignment="Left" Margin="247,350,0,0" VerticalAlignment="Top" Width="292" Height="47" BorderBrush="#FF321A1A" Foreground="White" Background="#FF5D224A" Click="QuitButton"/>
+    </Grid>
+</Page>
