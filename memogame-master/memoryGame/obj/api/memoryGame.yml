@@ -1,0 +1,52 @@
+### YamlMime:ManagedReference
+items:
+- uid: memoryGame
+  commentId: N:memoryGame
+  id: memoryGame
+  children:
+  - memoryGame.App
+  - memoryGame.ExtensionMethods
+  - memoryGame.GamePage
+  - memoryGame.MainMenuPage
+  - memoryGame.MainWindow
+  langs:
+  - csharp
+  - vb
+  name: memoryGame
+  nameWithType: memoryGame
+  fullName: memoryGame
+  type: Namespace
+  assemblies:
+  - memoryGame
+references:
+- uid: memoryGame.App
+  commentId: T:memoryGame.App
+  name: App
+  nameWithType: App
+  fullName: memoryGame.App
+- uid: memoryGame.ExtensionMethods
+  commentId: T:memoryGame.ExtensionMethods
+  parent: memoryGame
+  name: ExtensionMethods
+  nameWithType: ExtensionMethods
+  fullName: memoryGame.ExtensionMethods
+- uid: memoryGame.GamePage
+  commentId: T:memoryGame.GamePage
+  name: GamePage
+  nameWithType: GamePage
+  fullName: memoryGame.GamePage
+- uid: memoryGame.MainMenuPage
+  commentId: T:memoryGame.MainMenuPage
+  name: MainMenuPage
+  nameWithType: MainMenuPage
+  fullName: memoryGame.MainMenuPage
+- uid: memoryGame.MainWindow
+  commentId: T:memoryGame.MainWindow
+  name: MainWindow
+  nameWithType: MainWindow
+  fullName: memoryGame.MainWindow
+- uid: memoryGame
+  commentId: N:memoryGame
+  name: memoryGame
+  nameWithType: memoryGame
+  fullName: memoryGame

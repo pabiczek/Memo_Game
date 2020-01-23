@@ -1,0 +1,14 @@
+### YamlMime:TableOfContent
+- uid: memoryGame
+  name: memoryGame
+  items:
+  - uid: memoryGame.App
+    name: App
+  - uid: memoryGame.ExtensionMethods
+    name: ExtensionMethods
+  - uid: memoryGame.GamePage
+    name: GamePage
+  - uid: memoryGame.MainMenuPage
+    name: MainMenuPage
+  - uid: memoryGame.MainWindow
+    name: MainWindow
